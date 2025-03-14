@@ -30,8 +30,9 @@ Avant de commencer ce workshop, assurez-vous d'avoir installé :
 ```bash
 # Version final du plugin
 git clone https://github.com/MathysCogne/workshop_elizaos_42blockchain
+
 # ou juste la struture du plugin vierge afin de pratiquer !
-git clone https://github.com/MathysCogne/workshop_elizaos_42blockchain
+git clone -b base https://github.com/MathysCogne/workshop_elizaos_42blockchain
 ```
 
 3. **Installez les dépendances**
