@@ -1,3 +1,8 @@
+//
+// Documentation workshop sur les plugins:
+// https://github.com/MathysCogne/workshop_elizaos_42blockchain/blob/master/docs/plugin-implementation.md
+//
+
 import { type Plugin } from "@elizaos/core";
 import getBalance from "./actions/getBalance";
 
